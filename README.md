@@ -7,7 +7,7 @@
 - 💬 Ask me about anything, I'd love to chat 🗣
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him  🧑🏻‍♂️
-- ⚡ Fun fact: I love Japanese and Chinese food 🍣🍜
+- ⚡ Fun fact: I love Japanese and Chinese food 🍣🍜 
 <!--
 **murilo-pm/murilo-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
