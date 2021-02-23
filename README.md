@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I love Japanese and Chinese food 🍣🍜 
 
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/murilo-p-708885104/)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_murilopaulino)
 <!--
 **murilo-pm/murilo-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
