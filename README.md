@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything that's possible 💖
 - 🤔 I’m looking for help with programming 💻 
 - 💬 Ask me about anything, I'd love to chat 🗣
-- 📫 How to reach me: [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/murilo-p-708885104/) || ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_murilopaulino)
+- 📫 How to reach me: [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/murilo-p-708885104/)  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_murilopaulino)
 - 😄 Pronouns: he/him  🧑🏻‍♂️
 - ⚡ Fun fact: I love Japanese and Chinese food 🍣🍜 
 
