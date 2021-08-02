@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him  🧑🏻‍♂️
 - ⚡ Fun fact: I love Japanese and Chinese food 🍣🍜 
 
-:information_source: I'm currently studying Letters at USP (University of São Paulo). In addition, I've completed a full stack web development course at Generation Brazil. Nowadays I'm looking to improve not just myself but also my abilities in programming so that I can start my professional career in the technology field and, in the future, get started with computational linguistics and AI. Feel free to contact me whenever you need, no matter what. 
+:information_source: I'm currently studying Letters at USP (University of São Paulo) and Cloud Computing at Descomplica College. In addition, I've completed a full stack web development course at Generation Brazil. Nowadays I'm looking to improve not just myself but also my abilities in programming so that I can start my professional career in the technology field and, in the future, get started with computational linguistics and AI. Feel free to contact me whenever you need, no matter what. 
 <!--
 **murilo-pm/murilo-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
