@@ -8,8 +8,8 @@ I am an IT professional with experience in enterprise environments, working with
 
 ## 🎓 Education
 
-* Computer Engineering — UNIVESP (In Progress)
-* Postgraduate Degree in Software Engineering — PUC Minas (In Progress)
+* Computer Engineering — UNIVESP
+* Postgraduate Degree in Software Engineering — PUC Minas
 * Bachelor's Degree in Portuguese & Italian Languages and Literatures — University of São Paulo (USP)
 
 ---
