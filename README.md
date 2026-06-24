@@ -1,26 +1,91 @@
-### Hi there. Check it out: 👋
+# 👋 Hi, I'm Murilo ツ　。
 
-- 🔭 I’m currently working on building a developer career  👨🏻‍💻 
-- 🌱 I’m currently learning how to code 👾  
-- 👯 I’m looking to collaborate on anything that's possible 💖
-- 🤔 I’m looking for help with programming 💻 
-- 💬 Ask me about anything, I'd love to chat 🗣
-- 📫 How to reach me: [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/murilo-p-708885104/)  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_murilopaulino)
-- 😄 Pronouns: he/him  🧑🏻‍♂️
-- ⚡ Fun fact: I love Japanese and Chinese food 🍣🍜 
+## Infrastructure & Systems Engineer
 
-:information_source: I'm currently studying at the College of Letters of USP (University of São Paulo). In addition, I've completed a full stack web development course at Generation Brazil. Nowadays I'm looking to improve not just myself but also my abilities in programming so that I can start my professional career in the technology field and, in the future, get started with computational linguistics and AI. Feel free to contact me whenever you need, no matter what. 
-<!--
-**murilo-pm/murilo-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT professional with experience in enterprise environments, working with infrastructure, identity systems, automation, and production support. My focus is on building reliable systems, improving operational efficiency, and expanding into software engineering and system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on building a developer career  👨🏻‍💻 
-- 🌱 I’m currently learning how to code 👾  
-- 👯 I’m looking to collaborate on anything that's possible 💖
-- 🤔 I’m looking for help with programming 💻 
-- 💬 Ask me about anything, I just love to chat 🗣
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him  🧑🏻‍♂️
-- ⚡ Fun fact: I love Japanese and Chinese food 🍣🍜
--->
+## 🎓 Education
+
+* Computer Engineering — UNIVESP (In Progress)
+* Postgraduate Degree in Software Engineering — PUC Minas (In Progress)
+* Bachelor's Degree in Portuguese & Italian Languages and Literatures — University of São Paulo (USP)
+
+---
+
+## 💼 Professional Experience
+
+Experience in enterprise IT support and infrastructure engineering environments, including:
+
+* Microsoft enterprise infrastructure support
+* Identity & access management (Active Directory, Azure AD)
+* Microsoft 365 and collaboration platforms
+* Incident management and production support (SLA-driven environments)
+* Root cause analysis and technical escalation
+* API support and integration troubleshooting (Java-based systems)
+* Automation and workflow optimization using PowerShell and Power Automate
+
+---
+
+## 🧠 Technical Skills
+
+### Infrastructure & Systems
+
+Active Directory • Azure Active Directory (Entra ID) • Group Policy • DNS • DHCP • DFSR • PKI • Kerberos • NTLM • Windows Server • Linux Fundamentals • VMware • Hyper-V
+
+### Cloud & Collaboration
+
+Microsoft 365 • SharePoint Online
+
+### Software Engineering
+
+Java • Object-Oriented Programming (OOP) • Spring Boot • REST APIs • Software Architecture • System Design • SDLC • Design Patterns • SOLID Principles
+
+### Databases
+
+SQL • SQL Server • PostgreSQL • Data Modeling • Database Fundamentals
+
+### Automation & Scripting
+
+PowerShell • Power Automate • Workflow Automation • Process Optimization
+
+### IT Operations
+
+Incident Management • Change Management • SLA Management • ITIL Concepts • Root Cause Analysis • Production Support
+
+### Networking
+
+TCP/IP • DNS • VLANs • Network Fundamentals • Basic BGP Concepts
+
+---
+
+## 🌐 Languages
+
+Portuguese • English • Spanish • Italian
+
+---
+
+## 📌 Focus Areas
+
+* Systems & Infrastructure Engineering
+* Enterprise Platform Reliability
+* Identity & Access Management
+* Automation & Process Improvement
+* Software Engineering & System Design
+* Distributed Systems Fundamentals
+
+---
+
+## 📈 Current Goals
+
+* Strengthening software engineering fundamentals (Java, APIs, system design)
+* Expanding knowledge in databases and backend architecture
+* Building technical documentation and engineering studies
+* Developing a structured technical portfolio (labs, papers, and projects)
+
+---
+
+## 🚧 Portfolio
+
+Projects and technical studies will be continuously added here as I progress through academic and professional development.
