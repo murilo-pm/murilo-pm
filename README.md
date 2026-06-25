@@ -2,7 +2,7 @@
 
 **Application Support Engineer · Enterprise Infrastructure · Fintech & SaaS**
 
-> Trilingual IT professional (PT · EN · ES · IT) with 5+ years delivering technical support in complex, global environments — from Microsoft-certified Active Directory operations to API integrations and payment gateway support across LATAM, North America, Europe, and Oceania.
+> Polyglot IT professional (PT · EN · ES · IT) with 5+ years delivering technical support in complex, global environments — from Microsoft-certified Active Directory operations to API integrations and payment gateway support across LATAM, North America, Europe, and Oceania.
 
 ---
 
