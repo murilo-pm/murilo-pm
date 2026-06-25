@@ -15,7 +15,7 @@
 | 🔐 **Deep expertise** | Active Directory · Kerberos · NTLM · WHFB · PKI · DFSR |
 | 💳 **Fintech experience** | REST API integrations · Braintree (PayPal) · Payment gateway support |
 | ⚙️ **Automation** | PowerShell · Power Automate · workflow design |
-| 🌍 **Global reach** | Support delivered across 4 continents in 3 languages |
+| 🌍 **Global reach** | Support delivered across 4 continents in 4 different languages |
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Highlights:**
 - Delivered **340+ hours** of Microsoft-certified training in Directory Services, completing the Microsoft CSS Project with consistent quality ratings
-- Managed **~14 tickets/day** across Latin America and the United States for Microsoft enterprise clients — in English and Spanish
+- Managed **~14 tickets/day** across Latin America and the United States for Microsoft enterprise clients — in English, Spanish, and Portuguese
 - Resolved **~15 tickets/day** at HCLTech — approximately **4× the team average** — while maintaining high customer satisfaction scores and receiving frequent commendations
 - Supported **REST API integrations and payment gateway configurations** (Braintree/PayPal) for clients across North America, Europe, and Oceania
 - Designed and deployed an **automated approval workflow** (Power Automate + CSV extraction) that reduced manual workload in a high-volume support environment
@@ -50,7 +50,7 @@
 ### Infrastructure & Networking
 `DNS` `TCP/IP` `VLANs` `VMware` `Linux Fundamentals` `Basic BGP`
 
-### Software Engineering *(in progress)*
+### Software Engineering
 `Java` `OOP` `Spring Boot` `REST APIs` `SQL` `PostgreSQL` `System Design` `SOLID` `Design Patterns` `SDLC`
 
 ### IT Operations
@@ -60,9 +60,9 @@
 
 ## Education
 
-**Postgraduate Specialization in Software Engineering** · PUC Minas *(in progress)*
+**Postgraduate Specialization in Software Engineering** · PUC Minas
 
-**Bachelor's Degree in Computer Engineering** · UNIVESP *(in progress)*
+**Bachelor's Degree in Computer Engineering** · UNIVESP
 
 **Full Stack Web Developer Bootcamp — Java Track** · Generation Brasil
 `Java` `Spring Boot` `REST APIs` `SQL` `OOP` `Web Development`
